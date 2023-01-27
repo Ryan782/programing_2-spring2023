@@ -1,5 +1,5 @@
 
-
+'''
 for i in range (100000):
 	i = i*.5
 	print(i)
@@ -24,6 +24,7 @@ else:
 #Cash money dawg 
 for (i) in range(number):
 	print(i)
-'''
+
+print("This is so cool")
 
 
