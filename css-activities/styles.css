@@ -1,0 +1,13 @@
+.div-style {
+	font-size: 32px;
+	color: white;
+	background-color: red;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 25%;
+}
+
+#worst-button-ever {
+	background-color: blue;
+	font-size: 200px; 
+}

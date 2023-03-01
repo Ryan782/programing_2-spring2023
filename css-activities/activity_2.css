@@ -1,0 +1,47 @@
+.odd { 
+	background-color: yellow;
+	font-family: Verdana, DejaVu, "sans-serif";
+
+}
+#first_even {
+	color: blue;
+	font-size: 36px;
+}
+
+#odd2 {
+	font-size: 24px;
+}
+
+#final{
+	background-color: green;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#fith {
+
+}
+
+.challenge_1 {
+	border-style: dotted;
+	font-size: 24px;
+}
+
+#challenge_2 {
+	border-color: Red;
+	font-family:  'Amatic SC';
+	font-size: 49px;
+}
+
+h1, h2, h3 {
+	color:hotpink;
+	background-color: aqua ;
+}
+h2 {
+	background-color: black;
+}
+h1 {
+	font-family: cursive;
+}
+
+All odd numbered elements: a light red/pink background, and a list of fonts containing Verdana and DejaVu Sans with sans-serif as a fallback

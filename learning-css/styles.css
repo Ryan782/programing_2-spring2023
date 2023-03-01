@@ -1,0 +1,23 @@
+/**
+h1 {
+	color:green;
+	background-color: black;
+
+}
+p {
+	color:yellow;
+	background-image: url("https://files.cults3d.com/uploaders/25852182/illustration-file/3f9974c7-5847-41d5-ae35-2c1edaa62d25/01.jpg");
+}
+*/
+.service-change {
+	font-weight: bold;
+	color: blue;
+}
+.normal-service {
+	color:green;
+
+}
+
+.all-trains {
+	font-size: 25px;
+}

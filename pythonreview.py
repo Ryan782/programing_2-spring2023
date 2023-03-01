@@ -26,5 +26,5 @@ for (i) in range(number):
 	print(i)
 
 print("This is so cool")
-
+print("")
 
