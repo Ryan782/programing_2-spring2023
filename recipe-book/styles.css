@@ -1,0 +1,57 @@
+#recipie_head {
+	margin:10px;
+	text-align:center;
+	padding:20px;
+	background-color: red;
+	border-style: double;
+	border-width: 10px;
+	font-size:40px;
+	font-color: red;
+	height: auto;
+	width: auto;
+	display: block;
+}
+
+#description {
+	color: coral;
+}
+
+.recepie_links {
+	text-align: center;
+	margin: 50px;
+	padding: 50px;
+	font-weight: bold;
+	font-size:25px;
+}
+
+#odd_recipies {
+	background-color:turquoise;
+	padding: 45px;
+	display:block;
+
+}
+#even_recipies {
+	background-color: hotpink; 
+	display:block;
+}
+.body {
+	background-color:turquoise;
+}
+.general_text {
+	font-family: time-new-roman ,sans-serif;
+	color: hotpink;
+	background-color: .white;
+}
+
+.credit {
+	border: solid;
+	border-color: red;
+	border-width: 20px;
+	background-color: white;
+	text-align: center;
+	margin: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+
+}
