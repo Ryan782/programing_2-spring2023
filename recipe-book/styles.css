@@ -28,15 +28,17 @@
 	background-color:turquoise;
 	padding: 45px;
 	display:block;
-
 }
+
 #even_recipies {
 	background-color: hotpink; 
 	display:block;
 }
+
 .body {
 	background-color:turquoise;
 }
+
 .general_text {
 	font-family: time-new-roman ,sans-serif;
 	color: hotpink;
@@ -52,6 +54,4 @@
 	margin: 40px;
 	padding-left: 10px;
 	padding-right: 10px;
-
-
 }

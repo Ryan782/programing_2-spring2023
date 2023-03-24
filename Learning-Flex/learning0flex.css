@@ -1,0 +1,25 @@
+body {
+  background-color: aquamarine;
+}
+
+.header {
+	font-size: 40px;
+	text-align: center;
+	display: box;
+	border-color: red;
+	border-style: double;
+	border-size: 400px;
+
+}
+.container {
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.cat-image {
+  width: 200px;
+  margin: 10px;
+}
